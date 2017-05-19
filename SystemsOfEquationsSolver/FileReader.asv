@@ -1,0 +1,10 @@
+classdef FileReader
+    properties
+    end
+    
+    methods (Static)
+        function handles = readInputFile(handles, fileName, hObject, eventdata)
+        
+        end
+end
+end
